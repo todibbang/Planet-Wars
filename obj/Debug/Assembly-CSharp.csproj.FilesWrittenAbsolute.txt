@@ -1,0 +1,17 @@
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/obj/Debug/Assembly-CSharp.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/UnityEngine.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/UnityEditor.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Mono.Cecil.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Unity.DataContract.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/macbookpro/Documents/UnityProjects/Planet Wars/Temp/bin/Debug/Mono.Cecil.Mdb.dll
